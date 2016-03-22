@@ -1,0 +1,54 @@
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\bin\Debug\Interpretator.exe.config
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\bin\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\bin\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.Form_interpretator.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator\Interpretator\Interpretator\obj\Debug\Interpretator.BrowserF.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\bin\Debug\Interpretator.exe.config
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\bin\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\bin\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.BrowserF.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.Form_interpretator.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator паралельний\Interpretator\Interpretator\obj\Debug\Interpretator.Help.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\bin\Debug\Interpretator.exe.config
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.BrowserF.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.Help.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.Form_interpretator.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\obj\Debug\Interpretator.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\bin\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator 2.0\Interpretator\Interpretator\bin\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\bin\Debug\Interpretator.exe.config
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\bin\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\bin\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.BrowserF.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.Help.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.Form_interpretator.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator last\Interpretator\Interpretator\obj\Debug\Interpretator.csproj.GenerateResource.Cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\bin\Debug\Interpretator.exe.config
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\bin\Debug\Interpretator.exe
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\bin\Debug\Interpretator.pdb
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.csprojResolveAssemblyReference.cache
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.BrowserF.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.Help.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.Form_interpretator.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.Properties.Resources.resources
+F:\PI\PI_34\5 семестр\МПЗ\Модуль 1\1 Interpreter\Interpretator LAST RELEASE\Interpretator\Interpretator\obj\Debug\Interpretator.csproj.GenerateResource.Cache
