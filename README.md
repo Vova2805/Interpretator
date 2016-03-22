@@ -2,7 +2,9 @@
 Task
 
 Develop your own programming language that would allow to identify the information in HTML pages. You can use the concept of tags, attributes, and so possible inclusions. Recommended check syntax similar instruments - Rapise, Selenium own before implementation. You can use WinForms WebBrowser component for loading and receiving HTML-content. It should be strictly typed.
+
 Result
+
 Description of current language:
 Data Types
 	-integer - integer number;
